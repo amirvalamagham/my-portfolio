@@ -359,6 +359,7 @@ font-size: 1.7rem;
     #projects ul li{
         font-size: 14px;
     }
+
      #projects ul li a{
         font-size: 16px;
      }
@@ -386,6 +387,14 @@ font-size: 1.7rem;
     }
     .contact-list{
         order: 2;
+    }
+     .contact-list ul li{
+        font-size: 18px;
+        font-weight: 700;
+       }
+    .contact-list ul li a{
+        font-size: 16px;
+        font-weight: 700;
     }
     .contact-img-container{
         order: 1;
